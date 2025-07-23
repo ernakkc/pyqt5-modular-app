@@ -1,0 +1,11 @@
+[project]
+name = "pyqt5-template"
+version = "0.1.0"
+description = "A modern PyQt5 application template with MVC architecture, featuring controllers, models, views, and services for rapid desktop application development"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "PyQt5>=5.15.0",
+    "PyQt5-sip>=12.9.0",
+    "qtpy>=2.0.0"
+]
