@@ -1,4 +1,4 @@
- PyQt5 Modular Desktop Application body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; line-height: 1.6; color: #333; } code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px; font-family: monospace; } pre { background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; } h1, h2, h3 { color: #2c3e50; } ul { list-style: square; }
+ PyQt5 Modular Desktop Application
 
 PyQt5 Modular Desktop Application
 =================================
