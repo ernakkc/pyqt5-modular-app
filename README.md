@@ -1,5 +1,3 @@
- PyQt5 Modular Desktop Application
-
 PyQt5 Modular Desktop Application
 =================================
 
